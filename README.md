@@ -10,9 +10,11 @@ made by false#6000
 # How to setup
 1. Create a bot and grab its token - [Discord Bot](https://discord.com/developers/applications)
 2. Open main.py scroll down and change the token to your bots token
-3. Open help.py scroll down and put your id as a int where it says "your_id_as_a_int"
-4. Double click the python file "Bot is online." should print to terminal
-5. Enjoy!
+3. Open main.py and scroll down and put your id as a int where it says "your_id_as_int"
+4. Open help.py scroll down and put your id as a int where it says "your_id_as_a_int"
+5. Open all the json and txt file(s) and delete "delete only the text"
+6. Double click the main.py "Bot is ready." should print to terminal
+7. Enjoy!
 
 # 24/7 Hosting (OPTIONAL)
 Would you like to keep the bot on 24/7? I have some websites that can help you with that.
