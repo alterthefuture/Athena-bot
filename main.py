@@ -46,7 +46,7 @@ async def on_message(message):
     antispamm = config.get(f"{message.guild.id}")
 
     if antispamm == "True":
-        if message.author.id == 798325945463078952 or message.author.id == 746051373753171978 or message.author.id == client.user.id:
+        if message.author.id == your_id_as_a_int or message.author.id == client.user.id:
             pass
         else:
             counter = 0
