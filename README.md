@@ -10,6 +10,7 @@ made by false#6000
 # How to setup
 1. Create a bot and grab its token - [Discord Bot](https://discord.com/developers/applications)
 2. Open main.py scroll down and change the token to your bots token
+3. Open help.py scroll down and put your id as a int where it says "your_id_as_a_int"
 4. Double click the python file "Bot is online." should print to terminal
 5. Enjoy!
 
