@@ -1,7 +1,7 @@
 # Athena-bot
 Athena's source code with a whole bunch of commands and cammand categories!
 
-made by false#6000
+made by CatNinja#0001
 
 # Requirements 
 * Python recommended latest version - https://www.python.org/
